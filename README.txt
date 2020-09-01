@@ -1,0 +1,1 @@
+Howdy! This is a repository for Statistics Exercises.
